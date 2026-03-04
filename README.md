@@ -30,6 +30,7 @@ Isi tabel pelanggan :
 
 <img width="591" height="263" alt="image" src="https://github.com/user-attachments/assets/994eeb74-77aa-4cad-9bd3-1c5edf846fc7" />
 
+
 2. Tabel Pesanan :
 
 <img width="622" height="161" alt="image" src="https://github.com/user-attachments/assets/76491c0a-d4ef-4c71-91a4-227f3ab7ec07" />
@@ -46,6 +47,7 @@ Tabel ini menyimpan data pesanan pelanggan :
 Isi tabel pesanan :
 
 <img width="637" height="282" alt="image" src="https://github.com/user-attachments/assets/43ced0e8-e5ba-46db-aba7-8b80e94d9734" />
+
 
 ## Implementasi JOIN
 1. INNER JOIN & Hasil
